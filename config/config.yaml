@@ -109,8 +109,6 @@ platforms:
     name: "财联社热门"
   - id: "gelonghui"
     name: "格隆汇"
-  - id: "xueqiu"
-    name: "雪球"
   - id: "jin10"
     name: "金十数据"
   - id: "fastbull"
@@ -119,38 +117,24 @@ platforms:
   # === 社交/短视频/娱乐类 ===
   - id: "weibo"
     name: "微博"
-  - id: "douyin"
-    name: "抖音"
   - id: "bilibili-hot-search"
     name: "bilibili 热搜"
   - id: "tieba"
     name: "贴吧"
   - id: "zhihu"
     name: "知乎"
-  - id: "hupu"
-    name: "虎扑"
 
   # === 科技类平台 ===
   - id: "ithome"
     name: "IT之家"
-  - id: "juejin"
-    name: "掘金"
-  - id: "github"
-    name: "GitHub"
-  - id: "hackernews"
-    name: "Hacker News"
   - id: "solidot"
     name: "Solidot"
   - id: "v2ex"
     name: "V2EX"
-  - id: "nowcoder"
-    name: "牛客网"
   - id: "pcbeta"
     name: "远景论坛"
   - id: "sspai"
     name: "少数派"
-  - id: "producthunt"
-    name: "ProductHunt"
 
   # === 其他/工具类 ===
   - id: "chongbuluo"
@@ -167,16 +151,6 @@ platforms:
   #   name: "新浪"           # 失败原因：接口可能已变更
   # - id: "sohu" 
   #   name: "搜狐"           # 失败原因：接口可能已变更
-  
-  # 失败的财经类
-  # - id: "ghxi"
-  #   name: "国海证券"       # 失败原因：接口可能已变更
-  
-  # 失败的社交/短视频类
-  # - id: "kuaishou"
-  #   name: "快手"           # 失败原因：接口可能已变更
-  # - id: "smzdm"
-  #   name: "什么值得买"     # 失败原因：接口可能已变更
   
   # 失败的科技类
   # - id: "36kr"
