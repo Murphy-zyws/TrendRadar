@@ -56,9 +56,6 @@ deepmind
 sora
 openai
 chatgpt
-deepseek
-通义千问
-Qwen
 
 智驾
 奔驰
@@ -86,20 +83,15 @@ ios
 马斯克
 特斯拉
 tesla
-
 谷歌
 google
-
 微软
 Microsoft
-
 因特尔
 Intel
-
 黄仁勋
 英伟达
 NVIDIA
-
 苏姿丰
 超威
 AMD
@@ -112,12 +104,15 @@ AMD
 阿里巴巴
 alibaba
 阿里
+通义千问
+Qwen
 
 雷军
 小米
 
 梁文锋
 深度索求
+deepseek
 
 王兴兴
 宇树科技
