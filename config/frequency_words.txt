@@ -8,6 +8,8 @@
 电商
 亚马逊
 amazon
+沃尔玛
+Walmart
 希音
 SHEIN
 TikTok
@@ -29,9 +31,9 @@ Coupang
 空运
 中欧班列
 美线
-dhl
-fedex
-ups
+DHL
+FedEx
+UPS
 海外仓
 
 外交部
