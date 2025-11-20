@@ -17,6 +17,7 @@ Shopify
 Shopee
 虾皮
 Lazada
+Coupang
 天猫
 淘宝
 京东
