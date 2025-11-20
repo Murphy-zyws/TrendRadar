@@ -8,16 +8,30 @@
 电商
 亚马逊
 amazon
-拼多多
+希音
+SHEIN
+TikTok
 temu
 速卖通
+Shopify
+Shopee
+虾皮
+Lazada
+天猫
 淘宝
 京东
+拼多多
 假发
 
-海运
 航运
+海运
+空运
+中欧班列
 美线
+dhl
+fedex
+ups
+海外仓
 
 外交部
 香港
@@ -43,9 +57,6 @@ trump
 人民币
 美元
 黄金
-a股
-美股
-港股
 比特币
 
 机器人
@@ -65,10 +76,6 @@ chatgpt
 智己
 比亚迪
 问界
-智界
-享界
-尚界
-尊界
 su7
 yu7
 
